@@ -1,0 +1,97 @@
+## Codebook
+ID: Subject ID 
+Group: 0 = HC; 1 = LLD 
+ROI_1: RO1 2 
+ROI_2: ROI 1 
+Value: Connectivity Value 
+Measure: DTI; fMRI 
+ROI_1_ROI_2: Connectivity between ROI_1 and ROI_2
+
+## Brain Region Number in Freesurfer Desikan Atlas
+1 L cerebellum cortex 
+2 L thalamus proper
+3 L caudate
+4 L putamen
+5 L pallidum 
+6 brain stem (central)
+7 L hippocampus 
+8 L amygdala
+9 L accumbens area 
+10 L ventral diencephalon
+11 R cerebellum cortex
+12 R thalamus proper
+13 R caudate 
+14 R putamen
+15 R pallidum
+16 R hippocampus
+17 R amygdala 
+18 R accumbens area
+19 R ventral diencephalon 
+20 L banks of superior temporal sulcus
+21 L caudal anterior cingulate 
+22 L caudal middle frontal
+23 L cuneus 
+24 L entorhinal
+25 L fusiform 
+26 L inferior parietal
+27 L inferior temporal 
+28 L isthmus cingulate
+29 L lateral occipital 
+30 L lateral orbitofrontal
+31 L lingual 
+32 L medial orbitofrontal
+33 L middle temporal 
+34 L parahippocampal
+35 L paracentral 
+36 L pars opercularis
+37 L pars orbitalis
+38 L pars triangularis
+39 L pericalcarine 
+40 L postcentral
+41 L posterior cingulate 
+42 L precentral
+43 L precuneus 
+44 L rostral anterior cingulate
+45 L rostral middle frontal 
+46 L superior frontal
+47 L superior parietal 
+48 L superior temporal
+49 L supramarginal 
+50 L frontal pole
+51 L temporal pole 
+52 L transverse temporal
+53 L insula 
+54 R banks of superior temporal sulcus
+55 R caudal anterior cingulate 
+56 R caudal middle frontal
+57 R cuneus
+58 R entorhinal
+59 R fusiform 
+60 R inferior parietal
+61 R inferior temporal 
+62 R isthmus cingulate
+63 R lateral occipital 
+64 R lateral orbitofrontal
+65 R lingual 
+66 R medial orbitofrontal
+67 R middle temporal 
+68 R parahippocampal
+69 R paracentral 
+70 R pars opercularis
+71 R pars orbitalis 
+72 R pars triangularis
+73 R pericalcarine 
+74 R postcentral
+75 R posterior cingulate 
+76 R precentral
+77 R precuneus 
+78 R rostral anterior cingulate
+79 R rostral middle frontal 
+80 R superior frontal
+81 R superior parietal 
+82 R superior temporal
+83 R supramarginal 
+84 R frontal pole
+85 R temporal pole 
+86 R transverse temporal
+87 R insula
